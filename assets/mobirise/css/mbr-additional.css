@@ -1414,7 +1414,10 @@ body {
   box-shadow: none !important;
 }
 .cid-qTkA127IK8 {
-  background-color: #45610f;
+  background-image: url("../../../assets/images/hot-plate-3-2000x1336.jpg");
+}
+.cid-qTkA127IK8 H1 {
+  color: #ffffff;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
@@ -1484,13 +1487,13 @@ body {
   }
 }
 .cid-rsG436TbQX .navbar {
-  background: #ffffff;
+  background: #b2ccd2;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rsG436TbQX .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #b2ccd2;
 }
 .cid-rsG436TbQX a {
   font-style: normal;
@@ -1581,7 +1584,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rsG436TbQX .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #b2ccd2;
   display: none;
   position: absolute;
   min-width: 5rem;
